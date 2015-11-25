@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Card.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Deck.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="resource.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Card.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Deck.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Poker.rc">
+      <Filter>리소스 파일</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icon1.ico">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="back.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="10.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="11.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="20.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="21.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="30.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="31.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="40.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="41.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="50.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="51.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="60.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="61.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="70.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="71.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="80.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="81.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="90.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="91.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="100.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="101.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="bgbgbg.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="call.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="die.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="half.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+  </ItemGroup>
+</Project>
